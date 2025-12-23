@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+AI/proxy_config.txt
+models_comparison
+models
+models_comparison_large_custom
